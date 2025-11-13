@@ -1,0 +1,5 @@
+.stats { display:flex; gap:1rem; justify-content:space-around; background:linear-gradient(90deg,#f8fbff,#fff); padding:1.2rem 2rem; border-radius:12px; max-width:980px; margin:1.6rem auto; box-shadow:0 10px 30px rgba(2,6,23,0.04); }
+.stat { text-align:center; }
+.num { font-size:1.6rem; color:#0369a1; font-weight:800; }
+.lbl { color:#475569; font-weight:600; margin-top:.25rem; font-size:.95rem; }
+@media(max-width:720px){ .stats{flex-direction:column; align-items:center;} }

@@ -1,0 +1,7 @@
+.testimonials { padding:2.4rem 2rem; max-width:900px; margin:2rem auto; text-align:center; }
+.test-card { background:#fff; padding:1.6rem; border-radius:14px; box-shadow:0 30px 60px rgba(2,6,23,0.05); }
+.test-quote { font-size:1.05rem; color:#0f172a; margin-bottom:.8rem; }
+.test-author { color:#475569; font-weight:700; }
+.test-controls { margin-top:.9rem; display:flex; gap:.5rem; justify-content:center; }
+.dot { width:10px;height:10px;border-radius:999px;background:#e6eaf2;border:none; cursor:pointer; }
+.dot.active { background:#0ea5e9; box-shadow:0 6px 18px rgba(14,165,233,0.14); }
